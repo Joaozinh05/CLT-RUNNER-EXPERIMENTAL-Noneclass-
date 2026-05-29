@@ -15,3 +15,5 @@ else //se ele for posicionado na direita ele inverte da escala
 }
 
 vspeed = 1
+
+som_lanche = choose(son_Coleta1, son_Coleta2, son_Coleta3) 
